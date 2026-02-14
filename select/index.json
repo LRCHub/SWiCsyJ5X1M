@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君に聞きたいひとつのこと",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-02-14T10:06:50.219506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君に聞きたいひとつのこと",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_君に聞きたいひとつのこと_SHISHAMO.txt"
+    }
+  ]
+}
